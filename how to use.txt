@@ -1,0 +1,5 @@
+1-cd "directory"
+2-chmod +x mac_changer.py
+3-sudo ./mac_changer.py
+4-("type your linux password")
+5-enjoy
